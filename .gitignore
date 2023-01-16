@@ -615,7 +615,7 @@ FodyWeavers.xsd
 
 # Windows Installer files from build outputs
 
-# JetBrains Rider
+# JetBrains Riderr
 *.sln.iml
 
 ### VisualStudio Patch ###
